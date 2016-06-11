@@ -10,6 +10,9 @@ package RestaurantManagementSystem;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import javax.swing.text.JEditorPane;
+import javax.swing.text.JTextPane;
+import javax.swing.text.EditorKit;
 
 /**
  *
@@ -189,7 +192,14 @@ public class RestaurantManagementSystem extends javax.swing.JFrame {
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel2.setText("Food Items");
-
+        
+        /**
+         * RSyntaxTextArea textArea = new RSyntaxTextArea();
+         * textArea.setSyntaxEditingStyle(SyntaxConstants.SYNTAX_STYLE_JAVA);
+         * RTextScrollPane sp = new RTextScrollPane(textArea);
+         */
+         
+        
         jTextFieldMoMo.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jTextFieldMoMo.setText("0");
 
