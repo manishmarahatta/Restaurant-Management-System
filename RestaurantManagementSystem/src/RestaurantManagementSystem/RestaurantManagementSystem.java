@@ -1,11 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package RestaurantManagementSystem;
-//import java.awt.*;
-//import java.util.*;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -1243,67 +1237,4 @@ public class RestaurantManagementSystem extends javax.swing.JFrame {
         });
     }
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton jButtonExit;
-    private javax.swing.JButton jButtonReceipt;
-    private javax.swing.JButton jButtonReset;
-    private javax.swing.JButton jButtonTotal;
-    private javax.swing.JCheckBox jCheckBoxBlackForest;
-    private javax.swing.JCheckBox jCheckBoxBlueberry;
-    private javax.swing.JCheckBox jCheckBoxBurger;
-    private javax.swing.JCheckBox jCheckBoxChickenChilli;
-    private javax.swing.JCheckBox jCheckBoxChickenMoMo;
-    private javax.swing.JCheckBox jCheckBoxChickenWings;
-    private javax.swing.JCheckBox jCheckBoxChowmin;
-    private javax.swing.JCheckBox jCheckBoxColdDrinks;
-    private javax.swing.JCheckBox jCheckBoxCreamedPie;
-    private javax.swing.JCheckBox jCheckBoxDickyDan;
-    private javax.swing.JCheckBox jCheckBoxFrenchFries;
-    private javax.swing.JCheckBox jCheckBoxIcedCappuccino;
-    private javax.swing.JCheckBox jCheckBoxPizza;
-    private javax.swing.JCheckBox jCheckBoxWaterMelon;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel10;
-    private javax.swing.JLabel jLabel11;
-    private javax.swing.JLabel jLabel2;
-    private javax.swing.JLabel jLabel3;
-    private javax.swing.JLabel jLabel4;
-    private javax.swing.JLabel jLabel5;
-    private javax.swing.JLabel jLabel6;
-    private javax.swing.JLabel jLabel7;
-    private javax.swing.JLabel jLabel8;
-    private javax.swing.JLabel jLabel9;
-    private javax.swing.JPanel jPanel1;
-    private javax.swing.JPanel jPanel2;
-    private javax.swing.JPanel jPanel3;
-    private javax.swing.JPanel jPanel4;
-    private javax.swing.JPanel jPanel5;
-    private javax.swing.JPanel jPanel6;
-    private javax.swing.JPanel jPanel7;
-    private javax.swing.JPanel jPanel8;
-    private javax.swing.JScrollPane jScrollPane1;
-    private javax.swing.JScrollPane jScrollPane2;
-    private javax.swing.JTextArea jTextAreaRandomId;
-    private javax.swing.JTextArea jTextAreaReceipt;
-    private javax.swing.JTextField jTextFieldBlackForest;
-    private javax.swing.JTextField jTextFieldBlueberry;
-    private javax.swing.JTextField jTextFieldBurger;
-    private javax.swing.JTextField jTextFieldChilli;
-    private javax.swing.JTextField jTextFieldChowmin;
-    private javax.swing.JTextField jTextFieldColdDrinks;
-    private javax.swing.JTextField jTextFieldCostOfCafeItem;
-    private javax.swing.JTextField jTextFieldCostOfFoodItem;
-    private javax.swing.JTextField jTextFieldCreamedPie;
-    private javax.swing.JTextField jTextFieldDickyDan;
-    private javax.swing.JTextField jTextFieldFoodTax;
-    private javax.swing.JTextField jTextFieldFries;
-    private javax.swing.JTextField jTextFieldIcedCappuccino;
-    private javax.swing.JTextField jTextFieldMoMo;
-    private javax.swing.JTextField jTextFieldPizza;
-    private javax.swing.JTextField jTextFieldServiceCharge;
-    private javax.swing.JTextField jTextFieldSubTotal;
-    private javax.swing.JTextField jTextFieldTotal;
-    private javax.swing.JTextField jTextFieldWaterMelon;
-    private javax.swing.JTextField jTextFieldWings;
-    // End of variables declaration//GEN-END:variables
-}
+    
